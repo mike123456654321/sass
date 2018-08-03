@@ -6,7 +6,10 @@ body {
 }
 
 p {
+    
     @include large-text;
+    
+    /*if*/
     @if 1 + 1==2 {
         border: 1px solid;
     }
@@ -16,4 +19,16 @@ p {
     @if null {
         border: 3px double;
     }
+}
+ .boton 
+{
+     text:
+    {
+        decoration: none;
+     transform: uppercase;
+         display: block;
+    width: 250px;
+    height: 60px;
+    padding: 25px 0 0 0;
+    margin: 0 auto;
 }
