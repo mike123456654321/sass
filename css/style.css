@@ -1,0 +1,12 @@
+body {
+  background-image: url("http://worldoftravelusa.com/wp-content/uploads/2014/03/Times_Square_New_York_City_HDR.jpeg");
+  background-size: cover; }
+
+p {
+  font-family: 'NemoyMedium';
+  font-size: 250px;
+  font-weight: bold;
+  color: white;
+  text-align: center;
+  margin-top: 60px;
+  border: 1px solid; }
